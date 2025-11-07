@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardingg&label=Profile%20views&color=0e75b6&style=flat" alt="fardingg" /> </p>
 
 
-- 🔭 I’m currently working on **Reminder Renewal Platform** & **Financial Institution Application Simulator**
+- 🔭 I’m currently working on **Dine Deals (Wait for it)**
 
 - 🌱 I’m currently learning **Spring Boot, Angular and SWIFT UI**
 
