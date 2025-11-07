@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fardin</h1>
-<h3 align="center">I&IT Technology Developer | 3rd Year CS Student @ TMU</h3>
+<h3 align="center">Former Business Analyst and I&IT Technology Developer | 5th Year CS Student @ TMU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardingg&label=Profile%20views&color=0e75b6&style=flat" alt="fardingg" /> </p>
 
